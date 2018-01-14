@@ -7,10 +7,11 @@
 
 ## SUPPORT
 
-- python2 
-- python3 
-- alfred-workflow 
+- python2
+- python3
+- alfred-workflow
 - (目前只支持 MacOs chrome)
+- alfred workflow 第一次初始可能比较慢, 根据书签多少来决定, 1-10分钟不等
 
 ## USAGE
 
