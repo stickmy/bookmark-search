@@ -22,9 +22,11 @@ pip install -r requirements.txt
 # initial
 python src/reset.py
 
-# search
+# search 支持多个关键字搜索
 python src/utils/search.py `keyword`
 
+# example
+python src/utils/search.py 算法 最小生成树
 ```
 
 ## TODO
