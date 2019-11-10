@@ -2,7 +2,7 @@ beautifulsoup4==4.6.0
 bs4==0.0.1
 jieba==0.39
 pyparsing==2.0.1
-PyYAML==3.12
+PyYAML==5.1
 requests==2.18.4
 scipy==0.13.0b1
 urllib3==1.22
