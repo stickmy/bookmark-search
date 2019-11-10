@@ -3,7 +3,7 @@ bs4==0.0.1
 jieba==0.39
 pyparsing==2.0.1
 PyYAML==5.1
-requests==2.18.4
+requests==2.20.0
 scipy==0.13.0b1
 urllib3==1.22
 Whoosh==2.7.4
