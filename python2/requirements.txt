@@ -5,6 +5,6 @@ pyparsing==2.0.1
 PyYAML==5.1
 requests==2.20.0
 scipy==0.13.0b1
-urllib3==1.24.2
+urllib3==1.26.5
 Whoosh==2.7.4
 xattr==0.6.4
