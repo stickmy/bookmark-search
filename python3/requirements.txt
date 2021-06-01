@@ -10,7 +10,7 @@ idna==2.6
 jieba==0.39
 PyYAML==5.1
 requests==2.20.0
-urllib3==1.24.2
+urllib3==1.26.5
 virtualenv==15.1.0
 Whoosh==2.7.4
 workflow==2.1.3
